@@ -17,6 +17,6 @@ Comparison runs between M-DQN and DQN for the CartPole-v0 environment and LunarL
 
 ![altext](imgs/MRL+DQN_CP_.png)
 
-![altext](imgs/MRL+DQN_LL_.png)
+![altext](imgs/MRL+DQN_LL.png)
 
 

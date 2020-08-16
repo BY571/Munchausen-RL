@@ -4,13 +4,14 @@ PyTorch implementation of the M-DQN algorithm based on the paper [Munchause Rein
 
 For a short introduction check out the Medium [Article!](https://medium.com/@sebastian.dittert3692/munchausen-reinforcement-learning-9876efc829de?sk=885c4457cdd3d2d90a7adc5f8d574b7b)
 
-#### Work in progress
-Currently this repository only includes the base M-DQN implementation. The advanced distributional RL version M-IQN will follow 
+## Implementations 
+
+- [M-DQN](https://github.com/BY571/Munchausen-RL/blob/master/M-DQN.ipynb)
+- [M-IQN](https://github.com/BY571/IQN-and-Extensions)
 
 ### Changes to the Paper
 Compared to the original algorithm I did some changes:
-1. Instead of doing a hard update every 8000 frames I implemented a soft-update. By personal experience this worked better.
-2. Instead of using the huber loss function I used the MSE loss. For CartPole MSE loss resulted in a better performance. 
+1. Instead of doing a hard update every 8000 frames I implemented a soft-update. By personal experience this worked better. 
 
 # Results 
 Comparison runs between M-DQN and DQN for the CartPole-v0 environment and LunarLander-v2.
@@ -19,4 +20,7 @@ Comparison runs between M-DQN and DQN for the CartPole-v0 environment and LunarL
 
 ![altext](imgs/MRL+DQN_LL.png)
 
+Comparison of IQN and M-IQN for LunarLander-v2
+
+![altext](imgs/IQN_MIQN_LL_.png)
 

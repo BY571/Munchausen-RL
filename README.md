@@ -24,3 +24,7 @@ Comparison of IQN and M-IQN for LunarLander-v2
 
 ![altext](imgs/IQN_MIQN_LL_.png)
 
+Comparison IQN and M-IQN for Breakout
+
+![altext](/imgs/IQN_MIQN_BREAKOUT_.png)
+

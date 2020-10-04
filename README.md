@@ -9,6 +9,8 @@ For a short introduction check out the Medium [Article!](https://medium.com/@seb
 - [M-DQN](https://github.com/BY571/Munchausen-RL/blob/master/M-DQN.ipynb)
 - [M-IQN](https://github.com/BY571/IQN-and-Extensions)
 - [M-FQF](https://github.com/BY571/FQF-and-Extensions)
+- [M-SAC](https://github.com/BY571/Soft-Actor-Critic-and-Extensions)
+
 
 ### Changes to the Paper
 Compared to the original algorithm I did some changes:

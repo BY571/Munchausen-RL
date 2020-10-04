@@ -5,10 +5,12 @@ PyTorch implementation of the M-DQN algorithm based on the paper [Munchause Rein
 For a short introduction check out the Medium [Article!](https://medium.com/@sebastian.dittert3692/munchausen-reinforcement-learning-9876efc829de?sk=885c4457cdd3d2d90a7adc5f8d574b7b)
 
 ## Implementations 
-
+Discrete Action Space: 
 - [M-DQN](https://github.com/BY571/Munchausen-RL/blob/master/M-DQN.ipynb)
 - [M-IQN](https://github.com/BY571/IQN-and-Extensions)
 - [M-FQF](https://github.com/BY571/FQF-and-Extensions)
+
+Continuous Action Space: 
 - [M-SAC](https://github.com/BY571/Soft-Actor-Critic-and-Extensions)
 
 
